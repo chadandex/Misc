@@ -1,0 +1,31 @@
+/* 
+    Author     : Chad
+*/
+
+hr {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:#000000;
+    height: 1px;
+}
+
+body {
+    font-size: 12px;
+    font-family: sans-serif;
+    background: #7B7D7D;
+}
+
+#removeTesting {
+    display:none !important
+}
+
+/* Table */
+.table tr{
+    background: #626567;
+}
+
+.table tr:hover {
+    background-color: #E5E7E9;
+}

@@ -20,6 +20,4 @@ Name and Title should be required fields, while the others are not. The system s
 
 When the submit button is pressed, the application should take you to a confirmation page that has all of the information that was entered, as well as a table of previous entries. 
 
-This does not need to look pretty, but you can put some CSS styling on the page to make it look somewhat presentable.
-
-Once the code is completed, please upload it with setup instructions to GitHub or Bitbucket, and send us the link to the repository.
+This does not need to look pretty, but may put some CSS styling on the page to make it look somewhat presentable.

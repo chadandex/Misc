@@ -1,5 +1,5 @@
 # Misc
-Code test for [employer].
+Code test submission for [employer].
 
 **Requirements:**
 Using Spring and Java, develop a simple data entry application.
